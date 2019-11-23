@@ -1,7 +1,6 @@
 # coding=utf-8
 import numpy as np
 
-hhhh
 BLACK = -2
 WHITE = 2
 EMPTY = 0
