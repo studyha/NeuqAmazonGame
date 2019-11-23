@@ -1,6 +1,5 @@
 # coding=utf-8
 import numpy as np
-import torch as t
 
 BLACK = -2
 WHITE = 2
